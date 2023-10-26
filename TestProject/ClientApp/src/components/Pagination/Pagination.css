@@ -1,0 +1,15 @@
+.arrow {
+  border: 1px gray solid;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  width: 32px;
+  cursor: pointer;
+  margin: 0 4px;
+}
+
+.paginator {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
